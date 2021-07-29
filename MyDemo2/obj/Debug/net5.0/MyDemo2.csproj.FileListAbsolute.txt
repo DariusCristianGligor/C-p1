@@ -1,0 +1,15 @@
+C:\Users\dariu\source\repos\csarpv1\MyDemo2\bin\Debug\net5.0\MyDemo2.exe
+C:\Users\dariu\source\repos\csarpv1\MyDemo2\bin\Debug\net5.0\MyDemo2.deps.json
+C:\Users\dariu\source\repos\csarpv1\MyDemo2\bin\Debug\net5.0\MyDemo2.runtimeconfig.json
+C:\Users\dariu\source\repos\csarpv1\MyDemo2\bin\Debug\net5.0\MyDemo2.runtimeconfig.dev.json
+C:\Users\dariu\source\repos\csarpv1\MyDemo2\bin\Debug\net5.0\MyDemo2.dll
+C:\Users\dariu\source\repos\csarpv1\MyDemo2\bin\Debug\net5.0\ref\MyDemo2.dll
+C:\Users\dariu\source\repos\csarpv1\MyDemo2\bin\Debug\net5.0\MyDemo2.pdb
+C:\Users\dariu\source\repos\csarpv1\MyDemo2\obj\Debug\net5.0\MyDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dariu\source\repos\csarpv1\MyDemo2\obj\Debug\net5.0\MyDemo2.AssemblyInfoInputs.cache
+C:\Users\dariu\source\repos\csarpv1\MyDemo2\obj\Debug\net5.0\MyDemo2.AssemblyInfo.cs
+C:\Users\dariu\source\repos\csarpv1\MyDemo2\obj\Debug\net5.0\MyDemo2.csproj.CoreCompileInputs.cache
+C:\Users\dariu\source\repos\csarpv1\MyDemo2\obj\Debug\net5.0\MyDemo2.dll
+C:\Users\dariu\source\repos\csarpv1\MyDemo2\obj\Debug\net5.0\ref\MyDemo2.dll
+C:\Users\dariu\source\repos\csarpv1\MyDemo2\obj\Debug\net5.0\MyDemo2.pdb
+C:\Users\dariu\source\repos\csarpv1\MyDemo2\obj\Debug\net5.0\MyDemo2.genruntimeconfig.cache
